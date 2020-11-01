@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install bootstrap-vue vue-router vuex --save
 ```
 
 ### Compiles and hot-reloads for development

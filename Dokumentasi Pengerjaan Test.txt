@@ -1,0 +1,14 @@
+//Tahapan Pelaksanaan Test
+
+1. Mengidentifikasi rules & karakteristik pada soal yang diberikan
+2. instalasi vue, vuex, bootstrap, vue-router, axios
+3. menambahkan navbar, footer, dan dashboard component
+4. setting route
+5. setting store untuk kebutuhan management state
+6. import graphicContent
+7. merapikan bentuk data graphicContent dengan Code Beautify
+8. menyortir data kategori dan menampilkan di navbar
+
+//Kendala 
+
+*kendala terbesar yaitu menyortir data dari graphicContent sesuai kebutuhan
